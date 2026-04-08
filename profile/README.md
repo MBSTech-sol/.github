@@ -8,7 +8,7 @@ No cloud. No telemetry. Full GPU acceleration. One binary.
 
 | Repository | Description |
 |---|---|
-| [TypeScript SDK](https://github.com/MBSTech-sol/typescript) | `@mbs/sdk` — React hooks, streaming, agents |
+| [TypeScript SDK](https://github.com/MBSTech-sol/typescript) | `mbs-workbench` — React hooks, streaming, agents |
 | [Python SDK](https://github.com/MBSTech-sol/python) | `mbs-python` — Async client, batch processing, MCP tools |
 | [Documentation](https://github.com/MBSTech-sol/docs) | Installation guides, API reference, developer docs |
 | [Config Examples](https://github.com/MBSTech-sol/config-examples) | Model presets, GPU configs, system prompts |
@@ -18,9 +18,9 @@ No cloud. No telemetry. Full GPU acceleration. One binary.
 ## Links
 
 - **Website:** [mbsworkbench.com](https://mbsworkbench.com)
-- **Download:** [mbstechsolutions.app](https://mbstechsolutions.app)
-- **Discord:** [discord.gg/mbsworkbench](https://discord.gg/mbsworkbench)
-- **Telegram:** [t.me/MBSWorkbench](https://t.me/MBSWorkbench)
+- **Download:** [mbsworkbench.com](https://mbsworkbench.com)
+- **Discord:** [discord.gg/HgejrJARDa](https://discord.gg/HgejrJARDa)
+- **Telegram:** [t.me/MBSTechSolutions](https://t.me/MBSTechSolutions)
 
 ## License
 
